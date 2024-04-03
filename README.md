@@ -1,4 +1,7 @@
-# Fast Food App built with template
+# Fast-Food-App-React-Native-UI
+
+
+
 ## Get Started
 
 install dev dependencies
