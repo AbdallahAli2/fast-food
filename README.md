@@ -1,7 +1,4 @@
-# Fast-Food-App-React-Native-UI
-
-![Image](https://cdn.dribbble.com/userupload/6119574/file/original-5f38617e7b911320d197a5a681c881c9.png?compress=1&resize=2048x1536)
-
+# Fast Food App built with template
 ## Get Started
 
 install dev dependencies
